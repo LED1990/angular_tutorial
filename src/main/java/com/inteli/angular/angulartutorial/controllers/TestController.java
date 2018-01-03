@@ -13,6 +13,6 @@ public class TestController {
     @RequestMapping("/api/hi")
     public String hi() {
         LOGGER.info("I am inside controller");
-        return "I am test home page from rest controller";
+        return "I am test home page from rest controller :)";
     }
 }

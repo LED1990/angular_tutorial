@@ -1,3 +1,6 @@
 [submodule "angular-front"]
 	path = angular-front
 	url = https://github.com/LED1990/angular-front.git
+[submodule "angular_front"]
+	path = angular_front
+	url = https://github.com/LED1990/angular_front.git
